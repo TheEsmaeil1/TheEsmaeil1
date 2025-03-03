@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Happy to discuss topics like game mods, bot development, and advanced web programming. I also enjoy sharing insights about Viraigame's ongoing projects.**
 
-- 📫 How to reach me **Feel free to reach out via email: owner@viraigame.ir**
+- 📫 How to reach me **Feel free to reach out via email: owner@codeepic.ir**
 
 - 📄 Know about my experiences [My resume includes my experience in web and game development, as well as my technical skills and project history.](My resume includes my experience in web and game development, as well as my technical skills and project history.)
 
