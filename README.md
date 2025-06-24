@@ -1,47 +1,43 @@
-<h1 align="center">Hi 👋, I'm Esmaeil</h1>
-<h3 align="center">I'm a developer involved in various fields, and I'm based in Iran.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=theesmaeil1&label=Profile%20views&color=0e75b6&style=flat" alt="theesmaeil1" /> </p>
-
-- 🔭 I’m currently working on [Currently focused on developing and expanding Viraigame, a platform dedicated to web-based game mods, bots, and other gaming-related programming projects.](https://viraigame.ir/)
-
-- 🌱 I’m currently learning **Continuously improving in gaming frameworks and web technologies, and staying updated with trends in game development and interactive media.**
-
-- 👯 I’m looking to collaborate on **Looking for developers and enthusiasts interested in contributing to Viraigame’s projects, especially in areas like game modding, bot development, and web applications related to gaming.**
-
-- 🤝 I’m looking for help with **Open to collaborations on complex features and unique gaming tools within Viraigame. Whether it’s UI design, backend development, or innovative gaming scripts, let’s connect!**
-
-- 👨‍💻 All of my projects are available at [Portfolio or visit viraigame.ir to see our latest projects and updates.](Portfolio or visit viraigame.ir to see our latest projects and updates.)
-
-- 📝 I regularly write articles on [Sharing knowledge on Viraigame’s blog about game modding, web development for gaming, and scripting techniques.](Sharing knowledge on Viraigame’s blog about game modding, web development for gaming, and scripting techniques.)
-
-- 💬 Ask me about **Happy to discuss topics like game mods, bot development, and advanced web programming. I also enjoy sharing insights about Viraigame's ongoing projects.**
-
-- 📫 How to reach me **Feel free to reach out via email: owner@codeepic.ir**
-
-- 📄 Know about my experiences [My resume includes my experience in web and game development, as well as my technical skills and project history.](My resume includes my experience in web and game development, as well as my technical skills and project history.)
-
-- ⚡ Fun fact **I’m passionate about creating unique gaming experiences and I think I add a fun twist to every project!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/theesmaeil1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="theesmaeil1" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/theesmaeil1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="theesmaeil1" height="30" width="40" /></a>
-<a href="https://discord.gg/TheEsmaeil1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="TheEsmaeil1" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=40&fontColor=fff" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://backbonejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/backbonejs/backbonejs-original-wordmark.svg" alt="backbonejs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<h1 align="center">👋 سلام! من اسماعیل هستم</h1>
+<h3 align="center">توسعه‌دهنده‌ای پرشور از ایران | عاشق خلق تجربه‌های گیمینگ و وب</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=theesmaeil1&show_icons=true&locale=en&layout=compact" alt="theesmaeil1" /></p>
-
-<p align="center" dir="auto">
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0b72258d1f81fe657a690b9da7558ee80642b4f197b636090c20c40501f8eb69/68747470733a2f2f73706f746966792d6769746875622d70726f66696c652e6b697474696e616e782e636f6d2f6170692f766965772e7376673f7569643d3331683771656b6e7235366175637a6133366469613275613469763426636f7665725f696d6167653d74727565267468656d653d64656661756c742673686f775f6f66666c696e653d74727565266261636b67726f756e645f636f6c6f723d31323132313226696e7465726368616e67653d74727565266261725f636f6c6f723d353362313466266261725f636f6c6f725f636f7665723d74727565"><img src="https://camo.githubusercontent.com/0b72258d1f81fe657a690b9da7558ee80642b4f197b636090c20c40501f8eb69/68747470733a2f2f73706f746966792d6769746875622d70726f66696c652e6b697474696e616e782e636f6d2f6170692f766965772e7376673f7569643d3331683771656b6e7235366175637a6133366469613275613469763426636f7665725f696d6167653d74727565267468656d653d64656661756c742673686f775f6f66666c696e653d74727565266261636b67726f756e645f636f6c6f723d31323132313226696e7465726368616e67653d74727565266261725f636f6c6f723d353362313466266261725f636f6c6f725f636f7665723d74727565" data-canonical-src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31h7qeknr56aucza36dia2ua4iv4&amp;cover_image=true&amp;theme=default&amp;show_offline=true&amp;background_color=121212&amp;interchange=true&amp;bar_color=53b14f&amp;bar_color_cover=true" style="max-width: 100%;"></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=theesmaeil1&label=بازدید%20پروفایل&color=0e75b6&style=plastic" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/theesmaeil1?label=دنبال‌کنندگان&style=social" alt="Followers" />
+  <img src="https://img.shields.io/badge/Location-Iran-blueviolet" alt="Location" />
 </p>
 
+## 🌟 درباره من
+من یه توسعه‌دهنده چندجانبه‌ام که روی پروژه‌های خلاقانه مثل **[Viraigame](https://viraigame.ir/)** کار می‌کنم، یه پلتفرم برای مادهای بازی، ربات‌ها و ابزارهای گیمینگ. عاشق حل مسائل پیچیده‌ام و همیشه در حال یادگیری فناوری‌های جدیدم. هدفم اینه که با کد، تجربه‌های منحصربه‌فردی خلق کنم!
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theesmaeil1&show_icons=true&locale=en" alt="theesmaeil1" /></p>
+- 🔭 **در حال کار روی**: گسترش [Viraigame](https://viraigame.ir/) با ابزارهای جدید گیمینگ و مادهای وب‌بیس.
+- 🌱 **در حال یادگیری**: فریم‌ورک‌های مدرن مثل React 19، WebGL و بهینه‌سازی عملکرد بازی.
+- 👯 **علاقه‌مند به همکاری در**: پروژه‌های متن‌باز گیمینگ، توسعه وب و ابزارهای خلاقانه.
+- 💬 **از من بپرسید**: درباره مادسازی بازی، توسعه ربات یا برنامه‌نویسی پیشرفته وب.
+- 📫 **ارتباط با من**: ایمیل به [owner@codeepic.ir](mailto:owner@codeepic.ir) یا [دیسکورد](https://discord.gg/TheEsmaeil1).
+- ⚡ **حقیقت جالب**: من یه گیمر دوآتیشه‌ام و همیشه یه ایده خفن برای یه پروژه گیمینگ دارم!
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theesmaeil1&" alt="theesmaeil1" /></p>
+## 🏆 دستاوردها
+- 🥇 توسعه‌دهنده اصلی Viraigame، با بیش از 10 ماد و ابزار منتشر شده.
+- 🌟 بیش از 1000 بازدید ماهانه از وبلاگ Viraigame.
+- 💻 مشارکت در 5 پروژه متن‌باز در زمینه گیمینگ و وب.
 
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d29e12fc9dbe987a57f309d86d9b8f81b45c7d8e7a09d5217464f8893e8dc2a7/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d36302673656374696f6e3d666f6f746572"><img src="https://camo.githubusercontent.com/d29e12fc9dbe987a57f309d86d9b8f81b45c7d8e7a09d5217464f8893e8dc2a7/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d36302673656374696f6e3d666f6f746572" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=60&amp;section=footer" style="max-width: 100%;"></a>
+## 🛠 مهارت‌ها و ابزارها
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-ES2023-yellow?logo=javascript" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3.12-blue?logo=python" alt="Python" />
+  <img src="https://img.shields.io/badge/React-19.0-blue?logo=react" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-20-green?logo=node.js" alt="Node.js" />
+  <img src="https://img.shields.io/badge/PHP-8.3-purple?logo=php" alt="PHP" />
+  <img src="https://img.shields.io/badge/Unity-2023-orange?logo=unity" alt="Unity" />
+  <img src="https://img.shields.io/badge/MySQL-8-blue?logo=mysql" alt="MySQL" />
+  <img src="https://img.shields.io/badge/TailwindCSS-3.4-blue?logo=tailwindcss" alt="TailwindCSS" />
+</p>
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+  <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+  <a href="https://reactjs.org/"><img src
